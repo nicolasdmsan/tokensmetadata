@@ -1,0 +1,11 @@
+{
+  "name": "MAKAKO",
+  "symbol": "MAK",
+  "image": "https://st2.depositphotos.com/42546960/49889/v/450/depositphotos_498899094-stock-illustration-letter-logo-design-vector-template.jpg",
+  "description": "MAKAKO\n\n Website: https://youtube.com/123\n Twitter: https://x.com/123\n Telegram: https://telegram.org/123",
+  "extensions": {
+    "website": "https://youtube.com/12345",
+    "twitter": "https://x.com/12345",
+    "telegram": "https://telegram.org/12345"
+  }
+}
