@@ -1,10 +1,11 @@
 {
-  "name": "FOURTHTEST",
+  "name": "FIFTHTEST",
   "symbol": "FTT",
   "image": "https://cdn.vectorstock.com/i/500p/70/00/abstract-logo-letter-t-design-vector-40897000.jpg",
-  "description": "Creating token via code =)",
+  "description": "MACACO\n\n Website: https://youtube.com\n Twitter: https://x.com/\n Telegram: https://telegram.org",
   "extensions": {
     "website": "https://youtube.com",
+    "twitter": "https://x.com",
     "telegram": "https://telegram.org"
   }
 }
