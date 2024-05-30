@@ -1,11 +1,11 @@
 {
-  "name": "SIXTH",
-  "symbol": "STTS",
+  "name": "ITSATEST",
+  "symbol": "TEST",
   "image": "https://cdn.vectorstock.com/i/500p/70/00/abstract-logo-letter-t-design-vector-40897000.jpg",
-  "description": "MACACO\n\n Website: https://youtube.com\n Twitter: https://x.com/\n Telegram: https://telegram.org",
+  "description": "MACACO\n\n Website: https://youtube.com/123\n Twitter: https://x.com/123\n Telegram: https://telegram.org/123",
   "extensions": {
-    "website": "https://youtube.com",
-    "twitter": "https://x.com",
-    "telegram": "https://telegram.org"
+    "website": "https://youtube.com/123",
+    "twitter": "https://x.com/123",
+    "telegram": "https://telegram.org/123"
   }
 }
