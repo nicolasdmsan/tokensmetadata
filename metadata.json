@@ -1,0 +1,10 @@
+{
+  "name": "THIRDTEST",
+  "symbol": "TTT",
+  "image": "https://cdn.vectorstock.com/i/500p/70/00/abstract-logo-letter-t-design-vector-40897000.jpg",
+  "description": "Creating token via code =)",
+  "extensions": {
+    "website": "https://youtube.com",
+    "telegram": "https://telegram.org"
+  }
+}
