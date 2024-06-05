@@ -1,0 +1,11 @@
+{
+  "name": "PEPEDOL",
+  "symbol": "$PEPED",
+  "image": "https://raw.githubusercontent.com/nicolasdmsan/tokensmetadata/main/pepedollogo.png",
+  "description": "Escape money printing, buy $PEPED.\n\n Website: https://pepedol.fun/\n Twitter: https://x.com/PEPEDOLonSol\n Telegram: https://t.me/PepeDolsol",
+  "extensions": {
+    "website": "https://pepedol.fun/",
+    "twitter": "https://x.com/PEPEDOLonSol",
+    "telegram": "https://t.me/PepeDolsol"
+  }
+}
